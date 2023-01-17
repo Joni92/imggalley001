@@ -44,13 +44,13 @@ body {
 }
 
 .container .img-box:nth-child(3) {
-    background: url(../img/2.jpg);
+    background: url('../img/2.jpg');
     background-position: center;
     background-size: cover;
 }
 
 .container .img-box:nth-child(4) {
-    background: url(../img/3.jpg);
+    background: url('../img/3.jpg');
     background-position: center;
     background-size: cover;
 }
